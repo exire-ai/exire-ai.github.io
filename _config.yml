@@ -46,17 +46,17 @@ features                                  :
     description                           : We do the calendar balancing for you and suggest times that work for everyone in your group.
     fontawesome_icon_name                 : calendar-times
 
-  - title                                 : Find Unique Experiences Near You
-    description                           : We will get to know you on a personal level find experiences truly unique to you.
+  - title                                 : Create Unique Experiences Near You
+    description                           : We will get to know you on a personal level to find experiences truly unique to you.
     fontawesome_icon_name                 : star
 
-  - title                                 : # Easy to Tweak
-    description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : # adjust
+  - title                                 : Vote on What to Do
+    description                           : Have a poll with recommendations to figure out what activity best fits your group.
+    fontawesome_icon_name                 : poll
 
-  - title                                 : # Feature List
-    description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : # star
+  - title                                 : Support Local Businesses
+    description                           : We will cater to you smaller businesses for you to discover hidden gems near you.
+    fontawesome_icon_name                 : gem
 
   - title                                 : # Smart App Banner
     description                           : # Display a smart app banner on iOS devices.
