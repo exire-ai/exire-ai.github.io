@@ -35,18 +35,18 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Create A Plan Through Conversation
-    description                           : Our bot, Emma, will guide you through a personalized plan creation directly through conversation.
+    description                           : Our bot, Emma, will guide you through personalized plan creation directly through conversation.
     fontawesome_icon_name                 : comments
 
   - title                                 : Do Something Everyone Loves
     description                           : We will suggest places/events that everyone in the group will like using our recommendation system.
     fontawesome_icon_name                 : heart
 
-  - title                                 : Figure Out When Everyone is Free
-    description                           : We do the calendar balancing for you and suggest times that work for everyone in your group.
+  - title                                 : Find Out When Everyone is Free
+    description                           : We do the calendar balancing and suggest times that work for everyone in your group.
     fontawesome_icon_name                 : calendar-times
 
-  - title                                 : Create Unique Experiences Near You
+  - title                                 : Create Unique Experiences
     description                           : We will get to know you on a personal level to find experiences truly unique to you.
     fontawesome_icon_name                 : star
 
@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : poll
 
   - title                                 : Support Local Businesses
-    description                           : We will cater to you smaller businesses for you to discover hidden gems near you.
+    description                           : We will cater smaller businesses for you to discover hidden gems in your area.
     fontawesome_icon_name                 : gem
 
   - title                                 : # Smart App Banner
